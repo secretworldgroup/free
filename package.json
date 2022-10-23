@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^32.0.0",
-    "@fontsource/nunito": "^4.5.4",
+    "@fontsource/nunito": "^4.5.11",
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@icon/dripicons": "^2.0.0-alpha.3",
     "@popperjs/core": "^2.11.4",
