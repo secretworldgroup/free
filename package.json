@@ -65,7 +65,7 @@
     "rtlcss": "^3.5.0",
     "simple-datatables": "3.0.2",
     "summernote": "0.8.20",
-    "sweetalert2": "^11.4.6",
+    "sweetalert2": "^11.4.37",
     "tinymce": "^5.10.3",
     "toastify-js": "^1.11.2",
     "webpack": "^5.70.0"
