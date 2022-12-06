@@ -7,5 +7,5 @@ RUN npm install
 COPY . /frontend
 RUN npm run dev
 
-FROM nginx:latest
+FROM nginx:1.23.2
 COPY --from=frontend /frontend/dist/ /usr/share/nginx/html
