@@ -7,5 +7,5 @@ RUN npm install
 COPY . /frontend
 RUN npm run dev
 
-FROM nginx:latest
+FROM nginx:1-bullseye
 COPY --from=frontend /frontend/dist/ /usr/share/nginx/html
